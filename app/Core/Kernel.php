@@ -8,7 +8,7 @@ use App\Controllers\Task;
 
 class Kernel {
 
-    private $defaultControllerName = 'SpaController';
+    private $defaultControllerName = 'Spa';
     private $defaultActionName = "index";
 
     private $controllerName;
